@@ -1,0 +1,15 @@
+{
+  "short_name": "restaurent reviews",
+  "name": "Abhi's app for reviews",
+  "icons": [{
+      "src": "fun-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/sd140-final-project/",
+  "scope": "/sd140-final-project/",
+  "background_color": "#000000",
+  "display": "standalone",
+  "theme_color": "#3367D6"
+}
