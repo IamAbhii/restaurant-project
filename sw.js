@@ -16,10 +16,11 @@ const filesToCache = [
   'js/dbhelper.js',
   'js/restaurant_info.js',
   'sw-init.js',
+  'sw.js',
 
 ];
 
-const currentCache = 'pages-cache-v0';
+const currentCache = 'pages-cache-v1';
 
 self.addEventListener('install', event => {
   console.log('Attempting to install service worker and cache static assets');
