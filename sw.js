@@ -17,6 +17,7 @@ const filesToCache = [
   'js/restaurant_info.js',
   'sw-init.js',
   'sw.js',
+  'data/restaurants.json',
 
 ];
 
